@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to learning
 
-You can use the [editor on GitHub](https://github.com/farahamryien/learning-journal5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+***4 Ways To Build A Motivation Mindset***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+>I would like to share with you 4 ways to build a motivation mindset. Motivation is the driving force that inspires people to take action in life. Think about a time when you felt really motivated to achieve a goal. How did it feel? How did that feeling fuel your desire to achieve it?
 
-- Bulleted
-- List
+_When it comes to making big changes in life, your desire must overrule your fear. It all comes down to your mindset. Simply expressing that you want to achieve a goal isn’t enough. Internal motivation is only one piece of the puzzle. You need to actually put in the effort, which requires mental strength._
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+1. Know Your Strengths
+2.Find the “Why” Behind Your Goals 
+3.Enjoy the Process
+4.Stay Hungry
 
-[Link](url) and ![Image](src)
+
+
+
+[Link](https://projectlifemastery.com/motivation-mindset/) 
+
+![Image](https://images.app.goo.gl/LUJUaN112ZC2zG3X8)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/farahamryien/learning-journal5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
